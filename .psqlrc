@@ -4,7 +4,7 @@
 -- formatting
 \x auto
 -- replace nulls
-\pset null ⌀
+\pset null ∅
 \pset linestyle unicode
 \set VERBOSITY verbose
 -- show execution times
@@ -25,3 +25,5 @@
 \timing
 \set PROMPT1 '%[%033[1m%]%M/%/%R%[%033[0m%]%# '
 \set PROMPT2 ''
+
+\set QUIET 0
