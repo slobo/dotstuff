@@ -4,4 +4,4 @@ dotstuff
 
 Eg.
 
-    curl -k https://raw.github.com/slobo/dotstuff/master/ssh.sh | sh
+    curl -k https://raw.githubusercontent.com/slobo/dotstuff/master/ssh.sh | sh
